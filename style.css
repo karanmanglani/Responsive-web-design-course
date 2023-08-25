@@ -1,0 +1,12 @@
+p {
+  animation: p 2s infinite;
+}
+@keyframes p {
+  0% {
+    line-height: 0;
+  }
+
+  100% {
+    line-height: 1.5;
+  }
+}
